@@ -4,4 +4,4 @@ author: Maya Gotsatsenko
 tags: [cscc]
 ---
 
-### [Machine Learning Research]
+### Machine Learning Research
