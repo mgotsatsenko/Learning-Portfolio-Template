@@ -13,6 +13,6 @@ project_entries:
     url: ai-1-post
     desc: This is an example project, template 1
 
-  - title: Template 2
-    url: template-2-post
+  - title: Machine Learning Research
+    url: mlresearch-2-post
     desc: This is an example project, template 2
