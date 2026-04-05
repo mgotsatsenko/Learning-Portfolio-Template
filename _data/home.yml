@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: AI and Emerging Technologies
-    url: template-1-post
+    url: ai-1-post
     desc: This is an example project, template 1
 
   - title: Template 2
