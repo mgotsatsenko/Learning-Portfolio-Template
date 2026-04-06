@@ -1,0 +1,36 @@
+a. What book did you choose, and why?
+
+b. What did you ask the LLM to do, or how did you interact with the LLM using the book
+   you downloaded from Project Gutenberg?
+
+c. Were there any limitations or challenges you faced while using the LLM?
+
+d. Did the LLM correctly provide the response(s) you expected?
+ 
+e. What type of LLM patterns did you notice which did or did not align to the way a human might have responded to the same interactions?
+
+I chose "The Great Gatsby". I've never read the book but I've watched the movie, so I knew the story. I asked Microsoft Copilot
+a set of questions: Can you provide me a list of characters in the book "The Great Gatsby"?, Can you provide me a brief description of the book?,
+Can you provide me a brief description of the book?, Break down the themes, symbols, or even the historical context that makes the 
+book so iconic, Why Jay Gatsby was so obsessed with Daisy Buchanan and wouldn't let go off his fantasies?, Why would Daisy want to be stayed married to her husband if he is abusive? 
+Why can't she leave? Why does she reject Gatsby?
+
+I didn't have any limitations or challenges per se. LLM was pretty good even at suggesting  to break down themes and historical context
+for me. When I asked to provide me a brief description, this what it said:
+
+The Great Gatsby is a novel by F. Scott Fitzgerald set in the glittering, turbulent world of 1920s New York. 
+It follows Nick Carraway, a young man who becomes entangled in the lives of his wealthy neighbors—most notably Jay Gatsby, 
+a mysterious millionaire known for his extravagant parties and his unwavering love for Daisy Buchanan.
+
+Beneath the glamour, the story explores:
+
+    the illusion of the American Dream
+
+    the emptiness behind wealth and status
+
+    longing, obsession, and the cost of idealism
+
+It’s a sharp, beautifully written portrait of a society chasing pleasure while quietly falling apart.
+
+It was a bit too brief for me. I think the difference between human and LLM is the tone of voice and just a general feel of someone's 
+real interaction. LLM has no voice, so it kind talks like encyclopedia. 
