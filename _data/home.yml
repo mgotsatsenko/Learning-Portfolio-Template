@@ -17,6 +17,6 @@ project_entries:
     url: mlresearch-2-post
     desc: This is an example project, template 2
 
-    - title: Machine Learning Model
+  - title: Machine Learning Model
     url: mlmodel-3-post
     desc: This is an example project, template 3
