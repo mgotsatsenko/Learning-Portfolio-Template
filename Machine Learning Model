@@ -1,0 +1,14 @@
+1. Start a new entry and respond to the following questions:
+a. Describe how Teachable Machine uses machine learning to come up with solutions to an
+arbitrary problem.
+b. What application did you choose to create using Teachable Machine?
+c. What problem is it intended to solve?
+d. Why did you choose to create this application?
+e. Provide the URL to your application or exported model created using Teachable Machine.
+2. Prior to submitting this assignment, review the assignment rubric to ensure that your work meets
+the assignment expectations when evaluated by the instructor.
+
+Teachable is an ML tool that teaches how to train models without a code. It uses supervised learning and pattern recognition to identify and process data. It uses Image, Audio and Pose models to record real world examples.
+I used Image recognition to train ML to distinguish between pen, pencil and a marker. There was no particular reason why I chose to train ML to distinguish between writing tools.
+
+https://teachablemachine.withgoogle.com/models/t0xrm-AnP/
