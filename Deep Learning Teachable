@@ -7,4 +7,10 @@ e. Provide the URL to your application or exported model created using Teachable
 2. Prior to submitting this assignment, review the assignment rubric to ensure that your work meets
 the assignment expectations when evaluated by the instructor.
 
-Teachable is an ML tool that teaches how to train models without a code. It uses supervised learning and pattern recognition to identify and process data. It u
+Teachable is an ML tool that teaches how to train models without a code. 
+It uses supervised learning and pattern recognition to identify and process data. 
+It uses Image, Audio and Pose models to record real world examples.
+I used Pose model to train ML by recording me sitting and leaning on my hand, holding my hand against the chin, making a smily face
+as well as angry face. Moving my head up and down. It was actually pretty good at identifying all of postures.
+
+https://teachablemachine.withgoogle.com/models/hHXnMCiQJ/
