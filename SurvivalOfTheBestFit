@@ -1,0 +1,17 @@
+a. What was the motivating factor or factors during the game which resulted in the
+integration of a Machine Learning model to evaluate job candidates through automated
+resume review?
+I needed to hire faster and didn't have time to go through reading all of the candidates' resumes.
+
+b. What “good” situations existed in the game?
+All of the candidates were evaluated base on the same criterias like skills, ambition, education. 
+
+c. What “bad” situations existed in the game?
+Candidates were divided into two groups based on which college they attended. People who went to Orange Valley College were hired
+more than the ones went to Blue Valley College.
+
+d. How would you advise the business leader about when and how to implement a
+Machine Learning model to automate or improve the throughput of a hiring process?
+
+When the work becomes overwhelming and there is not enough of man power to complete it, we need to adopt ML model to automate the task.
+
